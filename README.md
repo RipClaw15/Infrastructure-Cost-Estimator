@@ -69,6 +69,8 @@ final_project/
 
 ## How to Run
 
+In data.py, you can check for the available example projects to load, which you can add as a command-line argument after:
+
 python project.py
 
 ## How to Test
