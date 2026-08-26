@@ -25,7 +25,7 @@ def test_create_access_point():
     assert isinstance(access_point2, RoadNode)
 
 def test_load_project_from_data():
-    project1 = load_project_from_data(A3_NUSFALAU_POARTA_SALAJULUI, MotorwayProject)
+    project1 = load_project_from_data(A3_NUSFALAU_POARTA_SALAJULUI)
 
     assert isinstance(project1, MotorwayProject)
     assert project1.length_km == 41
