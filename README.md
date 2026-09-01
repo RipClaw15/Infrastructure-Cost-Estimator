@@ -3,6 +3,10 @@
 A **Python based infrastructure cost estimator tool** built as a **CS50 Final Project**.
 The program models and estimates construction costs about different road and railway projects using realistic engineering parameters and real Romanian case studies.
 
+#### Video Demo: 
+
+https://youtu.be/PqcufKvVMP0
+
 ## Project Overview
 
 The calculator can estimate the total construction cost of large-scale infrastructure project such as:
